@@ -40,7 +40,7 @@
 > Du code à la modélisation de bases de données, en passant par l'intégration d'IA locales et la gestion d'infrastructures conteneurisées, j'aime transformer des problèmes complexes en solutions fluides et élégantes.
 
 - 🎓 Étudiant en **Génie Logiciel** à l'**INTEC-SUP**
-- 🏗️ Passionné par la **Clean Architecture** et le **DDD**
+- 🏗️ Passionné par la **Clean Architecture** 
 - 🤖 J'expérimente avec des **LLM locaux** dans mes workflows de développement
 - 🌍 Basé en Afrique de l'Ouest, ouvert aux collaborations à distance
 
