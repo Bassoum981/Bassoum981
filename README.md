@@ -1,9 +1,7 @@
 <!-- ═══════════════ HEADER ANIMÉ ═══════════════ -->
 <div align="center">
 
-<a href="https://www.ibassoum.dev">
-  <img src="./assets/readme-cover2.png" alt="Je m'appelle Ibrahim, ingénieur logiciel" width="100%" />
-</a>
+
 
 <a href="https://www.ibassoum.dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Salut+!+Moi+c'est+Ibrahim+%F0%9F%91%8B;%C3%89tudiant+en+G%C3%A9nie+Logiciel+%C3%A0+l'INTEC-SUP+%F0%9F%8E%93;D%C3%A9veloppeur+Full-Stack+%26+Mobile+%F0%9F%92%BB;Passionn%C3%A9+d'Architecture+Logicielle+%26+d'IA+%F0%9F%A7%A0;Je+transforme+des+probl%C3%A8mes+complexes+en+solutions+%C3%A9l%C3%A9gantes+%E2%9C%A8" alt="Texte animé de présentation" />
