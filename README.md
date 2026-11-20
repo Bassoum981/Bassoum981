@@ -1,80 +1,84 @@
-<!-- ═══════════════ HEADER ANIMÉ ═══════════════ -->
+<!-- HEADER ANIME -->
 <div align="center">
 
+<a href="https://www.ibassoum.dev">
+  <img src="assets/ascii-art.png" alt="Portrait ASCII d'Ibrahim" width="420" />
+</a>
 
+<br/><br/>
 
 <a href="https://www.ibassoum.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Salut+!+Moi+c'est+Ibrahim+%F0%9F%91%8B;%C3%89tudiant+en+G%C3%A9nie+Logiciel+%C3%A0+l'INTEC-SUP+%F0%9F%8E%93;D%C3%A9veloppeur+Full-Stack+%26+Mobile+%F0%9F%92%BB;Passionn%C3%A9+d'Architecture+Logicielle+%26+d'IA+%F0%9F%A7%A0;Je+transforme+des+probl%C3%A8mes+complexes+en+solutions+%C3%A9l%C3%A9gantes+%E2%9C%A8" alt="Texte animé de présentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Salut+!+Moi+c'est+Ibrahim;Etudiant+en+Genie+Logiciel+a+l'INTEC-SUP;Developpeur+Full-Stack+%26+Mobile;Architecture+Logicielle+%26+LLM+locaux;Des+systemes+clairs+pour+des+problemes+concrets" alt="Texte anime de presentation" />
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════ BOUTON PORTFOLIO ═══════════════ -->
+<!-- BOUTON PORTFOLIO -->
 <a href="https://www.ibassoum.dev" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20D%C3%A9couvrir%20mon%20Portfolio-ibassoum.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" alt="Voir mon portfolio" height="42" />
+  <img src="https://img.shields.io/badge/Portfolio-ibassoum.dev-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Voir mon portfolio" height="42" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Bassoum981&label=Visites+du+profil&color=8B5CF6&style=flat-square" alt="Compteur de visites" />
+<img src="https://komarev.com/ghpvc/?username=Bassoum981&label=Visites+du+profil&color=38BDF8&style=flat-square" alt="Compteur de visites" />
 
 </div>
 
-<!-- ═══════════════ NAVIGATION ═══════════════ -->
+<!-- NAVIGATION -->
 <p align="center">
-  <a href="#-à-propos">À propos</a> •
-  <a href="#-ce-que-je-fais">Ce que je fais</a> •
-  <a href="#-stack-technique">Stack</a> •
-  <a href="#-projets">Projets</a> •
-  <a href="#-statistiques-github">Stats</a> •
-  <a href="#-contact">Contact</a>
+  <a href="#a-propos">A propos</a> •
+  <a href="#ce-que-je-fais">Ce que je fais</a> •
+  <a href="#stack-technique">Stack</a> •
+  <a href="#projets">Projets</a> •
+  <a href="#statistiques-github">Stats</a> •
+  <a href="#contact">Contact</a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="séparateur" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separateur" />
 
-## 👨‍💻 À propos
+## A propos
 
-> Je conçois et développe des **applications web**, **mobiles** et des **architectures backend performantes**.
-> Du code à la modélisation de bases de données, en passant par l'intégration d'IA locales et la gestion d'infrastructures conteneurisées, j'aime transformer des problèmes complexes en solutions fluides et élégantes.
+> Je concois et developpe des **applications web**, **mobiles** et des **architectures backend performantes**.
+> De la modelisation de bases de donnees a l'integration de modeles locaux ou a la conteneurisation, je privilegie des solutions maintenables et pragmatiques.
 
-- 🎓 Étudiant en **Génie Logiciel** à l'**INTEC-SUP**
-- 🏗️ Passionné par la **Clean Architecture** 
-- 🤖 J'expérimente avec des **LLM locaux** dans mes workflows de développement
-- 🌍 Basé en Afrique de l'Ouest, ouvert aux collaborations à distance
+- Etudiant en **Genie Logiciel** a l'**INTEC-SUP**
+- Oriente **Clean Architecture**
+- Experimentation avec des **LLM locaux** dans mes workflows de developpement
+- Base en Afrique de l'Ouest, ouvert aux collaborations a distance
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="séparateur" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separateur" />
 
-## ⚡ Ce que je fais
+## Ce que je fais
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ Backend &amp; Mobile</h3>
-      Architectures propres (<i>Clean Architecture</i>, DDD) avec <b>Java (Spring Boot)</b>, <b>PHP (Laravel)</b> et <b>Dart (Flutter / Riverpod)</b>.
+      <h3>Backend &amp; Mobile</h3>
+      Architectures structurees (<i>Clean Architecture</i>, DDD) avec <b>Java (Spring Boot)</b>, <b>PHP (Laravel)</b> et <b>Dart (Flutter / Riverpod)</b>.
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 UI/UX &amp; Prototypage</h3>
-      Interfaces modernes prototypées sous <b>Figma</b> et intégrées dynamiquement avec <b>Livewire</b> et <b>Blade</b>.
+      <h3>UI/UX &amp; Prototypage</h3>
+      Interfaces prototypees sur <b>Figma</b> et integrees avec <b>Livewire</b> et <b>Blade</b>.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐳 DevOps &amp; Données</h3>
-      Services conteneurisés avec <b>Docker</b>, workflows automatisés sur macOS/Linux, bases de données <b>MySQL</b> et <b>PostgreSQL</b>.
+      <h3>DevOps &amp; Donnees</h3>
+      Services conteneurises avec <b>Docker</b>, scripts et workflows sous macOS/Linux, bases <b>MySQL</b> et <b>PostgreSQL</b>.
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 IA &amp; Outils Dev</h3>
-      Intégration de modèles locaux (<b>Ollama</b>, <b>LM Studio</b>) couplés à des environnements de développement intelligents.
+      <h3>IA &amp; Outils Dev</h3>
+      Integration de modeles locaux (<b>Ollama</b>, <b>LM Studio</b>) et outils d'analyse/assistance au developpement.
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="séparateur" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separateur" />
 
-## 🧰 Stack Technique
+## Stack Technique
 
 <details open>
-<summary><b>💬 Langages &amp; Frameworks</b></summary>
+<summary><b>Langages &amp; Frameworks</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -89,7 +93,7 @@
 </details>
 
 <details open>
-<summary><b>🗄️ Bases de Données &amp; DevOps</b></summary>
+<summary><b>Bases de Donnees &amp; DevOps</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -100,7 +104,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Environnement &amp; Outils de Création</b></summary>
+<summary><b>Environnement &amp; Outils</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -111,51 +115,51 @@
 </p>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="séparateur" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separateur" />
 
-## 📌 Projets
+## Projets
 
-| 🚀 Projet | 📝 Description | 🧩 Tech Stack |
+| Projet | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **MaliServices** | Plateforme de services web : de l'analyse des besoins à l'architecture API et au design UI. | `Laravel` `Figma` `REST API` |
-| **FermePro** | Suivi et gestion des opérations agricoles et des stocks. | `Laravel` `Livewire` `MySQL` |
-| **ProjectLens & LogLens** | Analyse de code (AST) et traitement de logs avec traduction/assistance IA. | `Java` `Flutter` `LLM locaux` |
-| **Cash-Flow** | Gestion financière suivant les principes de la *Clean Architecture*. | `Flutter` `Riverpod` `Dart` |
+| **MaliServices** | Plateforme de services web : analyse des besoins, architecture API et design UI. | `Laravel` `Figma` `REST API` |
+| **FermePro** | Suivi et gestion des operations agricoles et des stocks. | `Laravel` `Livewire` `MySQL` |
+| **ProjectLens & LogLens** | Analyse de code (AST) et traitement de logs avec assistance IA locale. | `Java` `Flutter` `LLM locaux` |
+| **Cash-Flow** | Gestion financiere structuree selon la *Clean Architecture*. | `Flutter` `Riverpod` `Dart` |
 
 <p align="center">
   <a href="https://www.ibassoum.dev">
-    <img src="https://img.shields.io/badge/Voir%20tous%20mes%20projets%20sur%20mon%20portfolio%20%E2%86%92-8B5CF6?style=for-the-badge&labelColor=1e1b4b" alt="Voir tous mes projets" />
+    <img src="https://img.shields.io/badge/Voir%20tous%20mes%20projets-ibassoum.dev-0284C7?style=for-the-badge&labelColor=0F172A" alt="Voir tous mes projets" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="séparateur" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separateur" />
 
-## 📈 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bassoum981&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassoum981&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bassoum981&show_icons=true&locale=fr&custom_title=Statistiques%20GitHub&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&hide_border=true" alt="Statistiques GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassoum981&layout=compact&locale=fr&custom_title=Langages%20utilises&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&hide_border=true" alt="Langages les plus utilises" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bassoum981&theme=tokyonight&hide_border=true" alt="Série de commits" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bassoum981&locale=fr&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=E2E8F0&currStreakNum=FFFFFF&sideLabels=CBD5E1&dates=94A3B8&hide_border=true" alt="Serie de commits" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bassoum981&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d'activité" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bassoum981&custom_title=Activite%20GitHub&bg_color=0F172A&color=38BDF8&line=38BDF8&point=7DD3FC&area_color=0284C7&area=true&hide_border=true" alt="Graphique d'activite" width="98%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="séparateur" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separateur" />
 
-## 🤝 Contact
+## Contact
 
 <p align="center">
-  <em>Un projet, une idée, une collaboration ? Parlons-en !</em>
+  <em>Un projet, une idee ou une collaboration ? Echangeons.</em>
 </p>
 
 <p align="center">
   <a href="https://www.ibassoum.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ton-profil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -167,8 +171,8 @@
 
 <div align="center">
 
-> 💡 *« Le bon code est sa propre meilleure documentation. »*
+> *« Le bon code est sa propre meilleure documentation. »*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Pied de page" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=120&section=footer" alt="Pied de page" width="100%" />
 
 </div>
